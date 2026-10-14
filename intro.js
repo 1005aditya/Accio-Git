@@ -7,3 +7,5 @@ function two(){
     console.log("Hello One")
 }
 two();
+
+console.log("Hello");
